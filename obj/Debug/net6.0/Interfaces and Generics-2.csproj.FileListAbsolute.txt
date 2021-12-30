@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\bin\Debug\net6.0\Interfaces and Generics-2.exe
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\bin\Debug\net6.0\Interfaces and Generics-2.deps.json
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\bin\Debug\net6.0\Interfaces and Generics-2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\bin\Debug\net6.0\Interfaces and Generics-2.dll
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\bin\Debug\net6.0\ref\Interfaces and Generics-2.dll
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\bin\Debug\net6.0\Interfaces and Generics-2.pdb
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.dll
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\ref\Interfaces and Generics-2.dll
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.pdb
+C:\Users\Lenovo\Desktop\Interfaces and Generics-2\obj\Debug\net6.0\Interfaces and Generics-2.genruntimeconfig.cache
